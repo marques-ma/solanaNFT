@@ -1,0 +1,20 @@
+{
+    "name": "Dollar on Fire!",
+    "symbol": "myNFT",
+    "description": "O dolar mais estiloso da Coleção",
+    "image": "0.png",
+    "attributes": [
+      {
+        "trait_type": "Number",
+        "value": "0"
+      }
+    ],
+    "properties": {
+      "files": [
+        {
+          "uri": "0.png",
+          "type": "image/png"
+        }
+      ]
+    }
+  }

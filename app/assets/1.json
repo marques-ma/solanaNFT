@@ -1,0 +1,20 @@
+{
+    "name": "Classic Dollar",
+    "symbol": "myNFT",
+    "description": "Classico, sem perder o estilo.",
+    "image": "1.png",
+    "attributes": [
+      {
+        "trait_type": "Number",
+        "value": "1"
+      }
+    ],
+    "properties": {
+      "files": [
+        {
+          "uri": "1.png",
+          "type": "image/png"
+        }
+      ]
+    }
+  }

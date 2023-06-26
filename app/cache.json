@@ -1,0 +1,33 @@
+{
+  "program": {
+    "candyMachine": "J1C1dYYQDtkMJZWn5ufku7XFq2CvvzWCdRnj4MUZLdHm",
+    "candyMachineCreator": "2yCBqdMeqJfi5Yp25oqghPtZgL8QNXqkMSY4WcYa3jQR",
+    "collectionMint": ""
+  },
+  "items": {
+    "0": {
+      "name": "Dollar on Fire!",
+      "image_hash": "c6587c00e7100c44a02dbb919a718ce15579051275f010a54d1c9a9b8df4f48a",
+      "image_link": "https://nftstorage.link/ipfs/bafybeiav6es35znnj4qcpl6x3vx4hxa4fj4hw4rlapc7lcewf7afjarh34/0.png",
+      "metadata_hash": "52e54cf40f7580eaa3102dabc7e2a6af15adffb38312ace169912dff1bafa2ef",
+      "metadata_link": "https://nftstorage.link/ipfs/bafybeic44dv6iq6pbqksxk73x5mmraiot3n6gmyappbotariaihdzcqifm/0.json",
+      "onChain": true
+    },
+    "1": {
+      "name": "Classic Dollar",
+      "image_hash": "8d80aaa0a306e2590b2b9e1726a5679ce2fd8e93dd9e07ac2fb8b71ae13ac8b6",
+      "image_link": "https://nftstorage.link/ipfs/bafybeiav6es35znnj4qcpl6x3vx4hxa4fj4hw4rlapc7lcewf7afjarh34/1.png",
+      "metadata_hash": "2245a3b0751923e76a31816ba4d7414c4f16e7bbc944d5e5a918c6bd0c47d0e6",
+      "metadata_link": "https://nftstorage.link/ipfs/bafybeic44dv6iq6pbqksxk73x5mmraiot3n6gmyappbotariaihdzcqifm/1.json",
+      "onChain": true
+    },
+    "2": {
+      "name": "NFT everywere",
+      "image_hash": "542febf8463f76288dd14f7185bc7006a7def1420f846405a1fe233ce66ab61f",
+      "image_link": "https://nftstorage.link/ipfs/bafybeiav6es35znnj4qcpl6x3vx4hxa4fj4hw4rlapc7lcewf7afjarh34/2.png",
+      "metadata_hash": "2f9a677acc2658f950553ea516862ef628b0028aa98d3bd3211be983fc740652",
+      "metadata_link": "https://nftstorage.link/ipfs/bafybeic44dv6iq6pbqksxk73x5mmraiot3n6gmyappbotariaihdzcqifm/2.json",
+      "onChain": true
+    }
+  }
+}
